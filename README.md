@@ -1,3 +1,10 @@
-Oi, meu nome é Iani e eu realmente não sei o que estou fazendo aqui :).
+<img width="300px" src="https://s3-sa-east-1.amazonaws.com/nexojornal/www/20160405_ESP_espaco/big-bang.png">
 
-Eu curso o ensino médio no Senai e aqui o ensino médio é integrado ao tecnico de desenvolvimento de sistemas. Não sou muito chegada nesse tecnico, porém tento o meu melhor, pois está na minha grade curricular.
+### Oii 👋
+Eu sou aluna do Ensino Médio Integrado a Desenvolvimento de Sistemas e estou quase formada. 
+- 🌟 Pretendo me formar em Farmácia e trabalhar na área de cosmetologia.
+- 🌟 Trabalho meio periodo como Jovem Aprendiz na ADEC.
+- 🌟 Tenho a leitura como um hobby.
+
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/niipvargas) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/niipvargas/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/nanii.vargas.56/)
