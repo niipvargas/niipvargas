@@ -1,4 +1,4 @@
-<img width="50%" src="https://imagensemoldes.com.br/wp-content/uploads/2020/05/os-vingadores-png.png">
+<img width="40%" src="https://imagensemoldes.com.br/wp-content/uploads/2020/05/os-vingadores-png.png">
 
 ### Oii 👋
 Eu sou aluna do Ensino Médio Integrado a Desenvolvimento de Sistemas e estou quase formada. 
